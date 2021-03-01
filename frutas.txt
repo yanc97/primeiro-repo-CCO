@@ -3,6 +3,8 @@ Uva
 
 M:
 Manga
+Maçã
+Melão
 
 L:
 Limão
